@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esto es una prueba bro
+=======
+git Coma Tortas para que cresca sano y fuerte
+>>>>>>> Pru
